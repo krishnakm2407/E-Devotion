@@ -2,8 +2,9 @@
   "name": "virtual-darshan",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "devStart": "nodemon app.js"
   },
   "repository": {
